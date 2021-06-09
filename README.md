@@ -131,6 +131,7 @@
 - [Flotiq](https://flotiq.com) - An effortless headless CMS.
 - [TreacleWP](https://www.treaclewp.com) - WordPress API hosting.
 - [Agility CMS](https://agilitycms.com) - The best of both worlds for developers and content editors.
+- [CloudCannon](https://cloudcannon.com/) - A Git-based CMS for developers, editors and marketers. 
 ## API
 
 ### Authentication
